@@ -1,0 +1,14 @@
+E:\HelloDotNet\HelloDotNet\bin\Debug\net8.0\HelloDotNet.exe
+E:\HelloDotNet\HelloDotNet\bin\Debug\net8.0\HelloDotNet.deps.json
+E:\HelloDotNet\HelloDotNet\bin\Debug\net8.0\HelloDotNet.runtimeconfig.json
+E:\HelloDotNet\HelloDotNet\bin\Debug\net8.0\HelloDotNet.dll
+E:\HelloDotNet\HelloDotNet\bin\Debug\net8.0\HelloDotNet.pdb
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.AssemblyInfoInputs.cache
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.AssemblyInfo.cs
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.csproj.CoreCompileInputs.cache
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.dll
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\refint\HelloDotNet.dll
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.pdb
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\HelloDotNet.genruntimeconfig.cache
+E:\HelloDotNet\HelloDotNet\obj\Debug\net8.0\ref\HelloDotNet.dll
