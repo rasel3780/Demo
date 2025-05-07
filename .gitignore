@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HelloDotNet/FileContentIndex
+/HelloDotNet/obj/Debug/net8.0/HelloDotNet.AssemblyInfo.cs
+/HelloDotNet/obj/Debug/net8.0/HelloDotNet.AssemblyInfoInputs.cache
+/HelloDotNet/obj/Debug/net8.0/HelloDotNet.AssemblyInfo.cs
+/HelloDotNet/obj/Debug/net8.0/HelloDotNet.AssemblyInfoInputs.cache
